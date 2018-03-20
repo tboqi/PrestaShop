@@ -1,3 +1,7 @@
+http://prestashop.com:10080/admin-dev/
+
+
+
 About PrestaShop
 --------
 
@@ -25,9 +29,9 @@ Also, the ZIP file contains resources for developers and designers that are not 
 Server configuration
 --------
 
-To install PrestaShop, you need a web server running PHP 5.2+ and any flavor of MySQL 5.0+ (MySQL, MariaDB, Percona Server, etc.).  
+To install PrestaShop, you need a web server running PHP 5.2+ and any flavor of MySQL 5.0+ (MySQL, MariaDB, Percona Server, etc.).
 You will also need a database administration tool, such as phpMyAdmin, in order to create a database for PrestaShop.
-We recommend the Apache or Nginx web servers.  
+We recommend the Apache or Nginx web servers.
 You can find more information on the [System Administrator Guide][19].
 
 If your host does not offer PHP 5 by default, [here are a few explanations][3] about PHP 5 or the `.htaccess` file for certain hosting services (1&amp;1, Free.fr, OVH, Infomaniak, Amen, GoDaddy, etc.).
@@ -40,7 +44,7 @@ Installation
 
 Once the files in the PrestaShop archive have been decompressed and uploaded on your hosting space, go to the root of your PrestaShop directory with your web browser, and the PrestaShop installer will start automatically. Follow the instructions until PrestaShop is installed.
 
-If you get any PHP error, it might be that you do not have PHP 5 on your web server, or that you need to activate it. See [this page for explanations about PHP 5][3], or contact your web host directly.  
+If you get any PHP error, it might be that you do not have PHP 5 on your web server, or that you need to activate it. See [this page for explanations about PHP 5][3], or contact your web host directly.
 If you do not find any solution to start the installer, please post about your issue on [the PrestaShop forums][5].
 
 
